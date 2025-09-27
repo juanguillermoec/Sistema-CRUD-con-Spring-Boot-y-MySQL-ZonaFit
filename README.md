@@ -2,7 +2,7 @@
 
 Este proyecto es un sistema CRUD (Crear, Leer, Actualizar y Eliminar) desarrollado con **Spring Boot**, **Java 21** y **MySQL**. Fue creado como práctica para aprender a construir aplicaciones Java con conexión a base de datos usando JPA y JDBC.
 
----
+----
 
 ## 🚀 Tecnologías utilizadas
 
